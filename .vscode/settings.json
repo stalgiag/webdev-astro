@@ -1,0 +1,6 @@
+{
+    "prettier.documentSelectors": [
+        "\"**/*.astro\""
+    ],
+    "astro.format.indentFrontmatter": false
+}
